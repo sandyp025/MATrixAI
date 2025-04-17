@@ -21,7 +21,7 @@ export default function ClientLayout({ children }: { children: React.ReactNode }
               className="flex items-center gap-2"
             >
               <Microscope className="h-6 w-6" />
-              <h1 className="text-xl font-bold">BioAI Platform</h1>
+              <h1 className="text-xl font-bold">MATrixAI Platform</h1>
             </motion.div>
             <motion.nav
               initial={{ opacity: 0, y: -10 }}

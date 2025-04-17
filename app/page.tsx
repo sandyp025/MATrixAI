@@ -260,7 +260,7 @@ export default function DashboardPage() {
       <footer className="border-t py-4">
         <div className="container flex flex-col items-center justify-between gap-4 md:flex-row">
           <p className="text-center text-sm text-muted-foreground">
-            &copy; {new Date().getFullYear()} BioAI Research Lab. All rights reserved.
+            &copy; {new Date().getFullYear()} MATrixAI Research Lab. All rights reserved.
           </p>
           <div className="flex gap-4">
             <Link href="#" className="text-sm text-muted-foreground hover:text-primary transition-colors duration-200">
